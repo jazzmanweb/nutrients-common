@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jazzmanweb/nutrients-common/issues"
   },
-  "homepage": "https://github.com/jazzmanweb/nutrients-common#readme"
+  "homepage": "https://github.com/jazzmanweb/nutrients-common#readme",
+  "peerDependencies": {
+    "typescript": "^3.5.1",
+    "rxjs": "^6.3.3"
+  }
 }
